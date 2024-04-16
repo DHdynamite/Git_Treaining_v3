@@ -1,3 +1,4 @@
 Git revert commit 1
 
 This is Sample Text 1
+This is Comparison lecture
