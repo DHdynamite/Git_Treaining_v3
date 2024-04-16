@@ -1,1 +1,3 @@
+Git merger learining slides
+
 This is Sample Text 1
