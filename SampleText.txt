@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Git merger learining slides
 
 Git revert commit 1
